@@ -1,3 +1,5 @@
+default:
+	make build
 build:
 	make -r build/myos.img
 clean:
